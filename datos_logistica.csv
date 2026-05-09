@@ -1,0 +1,161 @@
+ID_Envio,Fecha,Origen,Destino,Transportadora,Estado,Costo_Envio,Tiempo_Entrega_Dias
+ENV-1000,2024-01-20,Barranquilla,Barranquilla,Servientrega,Devuelto,49974.08,10
+ENV-1001,2024-02-24,Bogotá,Bucaramanga,DHL,Devuelto,56862.14,10
+ENV-1002,2024-02-25,Barranquilla,Cali,Servientrega,Retrasado,30615.03,7
+ENV-1003,2024-01-06,Bucaramanga,Barranquilla,Servientrega,En Tránsito,61070.58,5
+ENV-1004,2024-04-05,Barranquilla,Cali,Servientrega,Entregado,48789.15,9
+ENV-1005,2024-01-16,Medellín,Bogotá,Servientrega,Devuelto,50041.2,3
+ENV-1006,2024-01-21,Bogotá,Barranquilla,Servientrega,Retrasado,40342.69,2
+ENV-1007,2024-01-07,Bucaramanga,Bogotá,DHL,En Tránsito,52143.79,8
+ENV-1008,2024-02-18,Bucaramanga,Bucaramanga,DHL,Entregado,35554.11,1
+ENV-1009,2024-03-19,Barranquilla,Medellín,Interrapidísimo,Devuelto,51575.79,3
+ENV-1010,2024-01-04,Barranquilla,Bogotá,Envía,En Tránsito,37661.86,10
+ENV-1011,2024-01-22,Medellín,Medellín,Envía,Entregado,19634.72,4
+ENV-1012,2024-02-22,Bucaramanga,Bucaramanga,DHL,Entregado,21079.73,8
+ENV-1013,2024-01-01,Barranquilla,Barranquilla,Servientrega,Devuelto,83496.46,3
+ENV-1014,2024-03-30,Medellín,Barranquilla,DHL,Entregado,32418.51,5
+ENV-1015,2024-03-09,Cali,Bogotá,Envía,En Tránsito,55144.75,2
+ENV-1016,2024-02-27,Cali,Bogotá,Servientrega,En Tránsito,25136.61,10
+ENV-1017,2024-03-02,Bucaramanga,Barranquilla,DHL,Devuelto,79295.38,7
+ENV-1018,2024-01-21,Medellín,Bucaramanga,Interrapidísimo,Devuelto,41391.46,1
+ENV-1019,2024-02-18,Medellín,Cali,DHL,En Tránsito,37121.76,2
+ENV-1020,2024-01-23,Bucaramanga,Barranquilla,Envía,Devuelto,48083.57,7
+ENV-1021,2024-01-20,Barranquilla,Bucaramanga,Envía,Devuelto,62938.0,1
+ENV-1022,2024-02-29,Medellín,Bogotá,Interrapidísimo,Entregado,22822.6,1
+ENV-1023,2024-01-07,Medellín,Barranquilla,Servientrega,Entregado,76866.41,9
+ENV-1024,2024-03-25,Bucaramanga,Barranquilla,DHL,Retrasado,58297.79,4
+ENV-1025,2024-02-05,Medellín,Bogotá,DHL,Entregado,27173.47,8
+ENV-1026,2024-02-21,Medellín,Bogotá,Interrapidísimo,Devuelto,15584.05,9
+ENV-1027,2024-02-12,Bucaramanga,Bogotá,DHL,Devuelto,32629.6,7
+ENV-1028,2024-02-21,Bucaramanga,Barranquilla,Interrapidísimo,Devuelto,31319.19,5
+ENV-1029,2024-02-09,Medellín,Bucaramanga,Servientrega,En Tránsito,71014.76,10
+ENV-1030,2024-02-17,Bucaramanga,Bucaramanga,Servientrega,Devuelto,24785.18,9
+ENV-1031,2024-02-29,Barranquilla,Bogotá,Interrapidísimo,Retrasado,61338.27,2
+ENV-1032,2024-02-12,Bogotá,Medellín,Envía,Retrasado,70224.36,6
+ENV-1033,2024-02-28,Bogotá,Cali,Envía,Devuelto,55906.24,10
+ENV-1034,2024-03-06,Bucaramanga,Bucaramanga,Interrapidísimo,Devuelto,81937.65,3
+ENV-1035,2024-01-25,Bogotá,Cali,Envía,Entregado,65097.74,7
+ENV-1036,2024-04-10,Cali,Bogotá,DHL,Entregado,39367.65,9
+ENV-1037,2024-02-22,Bogotá,Cali,Servientrega,Devuelto,84010.64,9
+ENV-1038,2024-03-31,Bogotá,Bucaramanga,Interrapidísimo,Devuelto,20255.73,3
+ENV-1039,2024-02-28,Cali,Bucaramanga,DHL,Entregado,69290.35,5
+ENV-1040,2024-01-05,Medellín,Cali,Envía,Retrasado,35998.19,4
+ENV-1041,2024-03-26,Cali,Medellín,DHL,Entregado,20243.18,6
+ENV-1042,2024-02-13,Bucaramanga,Bogotá,DHL,Entregado,32433.54,1
+ENV-1043,2024-02-09,Bucaramanga,Bucaramanga,Servientrega,Devuelto,67996.98,2
+ENV-1044,2024-03-25,Bucaramanga,Bucaramanga,DHL,En Tránsito,62311.38,3
+ENV-1045,2024-01-16,Barranquilla,Barranquilla,Envía,Devuelto,47779.34,8
+ENV-1046,2024-03-02,Bogotá,Cali,Interrapidísimo,Devuelto,33860.74,6
+ENV-1047,2024-02-27,Bucaramanga,Barranquilla,Envía,En Tránsito,70389.03,3
+ENV-1048,2024-03-21,Bucaramanga,Medellín,Interrapidísimo,En Tránsito,15233.25,4
+ENV-1049,2024-03-04,Bucaramanga,Bogotá,Servientrega,Retrasado,75915.8,1
+ENV-1050,2024-03-12,Bogotá,Medellín,Interrapidísimo,Entregado,22981.33,7
+ENV-1051,2024-01-05,Medellín,Barranquilla,Interrapidísimo,Devuelto,27588.63,6
+ENV-1052,2024-02-22,Barranquilla,Medellín,Servientrega,Entregado,81155.54,4
+ENV-1053,2024-01-04,Medellín,Cali,Interrapidísimo,Devuelto,70056.89,2
+ENV-1054,2024-02-19,Medellín,Medellín,Envía,Retrasado,23522.77,10
+ENV-1055,2024-01-23,Bucaramanga,Bucaramanga,Envía,Entregado,36485.89,2
+ENV-1056,2024-03-28,Barranquilla,Cali,Interrapidísimo,Entregado,36528.79,2
+ENV-1057,2024-03-22,Cali,Bucaramanga,Interrapidísimo,Retrasado,62545.16,9
+ENV-1058,2024-01-30,Cali,Cali,Servientrega,En Tránsito,57925.72,7
+ENV-1059,2024-01-14,Bucaramanga,Bogotá,Interrapidísimo,Entregado,80593.15,4
+ENV-1060,2024-01-19,Cali,Bogotá,DHL,Retrasado,49483.38,9
+ENV-1061,2024-01-19,Barranquilla,Barranquilla,Servientrega,Entregado,39472.46,1
+ENV-1062,2024-03-10,Bogotá,Barranquilla,Interrapidísimo,Retrasado,71985.12,6
+ENV-1063,2024-01-13,Cali,Medellín,DHL,Devuelto,56488.24,10
+ENV-1064,2024-02-21,Barranquilla,Bucaramanga,DHL,Entregado,51911.97,3
+ENV-1065,2024-01-26,Cali,Barranquilla,Envía,En Tránsito,83359.96,5
+ENV-1066,2024-01-02,Cali,Bucaramanga,Envía,En Tránsito,58886.61,5
+ENV-1067,2024-03-15,Bogotá,Barranquilla,Interrapidísimo,Retrasado,27160.94,7
+ENV-1068,2024-02-21,Medellín,Bogotá,Servientrega,Entregado,56009.35,7
+ENV-1069,2024-01-12,Bucaramanga,Cali,Servientrega,Entregado,55822.18,3
+ENV-1070,2024-03-23,Bucaramanga,Bucaramanga,Envía,En Tránsito,52379.33,7
+ENV-1071,2024-01-21,Medellín,Bogotá,DHL,Devuelto,28481.51,3
+ENV-1072,2024-03-05,Cali,Bogotá,Interrapidísimo,En Tránsito,76400.18,9
+ENV-1073,2024-03-31,Bucaramanga,Medellín,Interrapidísimo,Devuelto,54137.22,4
+ENV-1074,2024-01-12,Bogotá,Bogotá,DHL,En Tránsito,20551.26,9
+ENV-1075,2024-03-29,Cali,Medellín,Interrapidísimo,En Tránsito,23091.53,6
+ENV-1076,2024-01-10,Bogotá,Bogotá,Servientrega,Entregado,65601.11,5
+ENV-1077,2024-02-08,Medellín,Barranquilla,DHL,Retrasado,43659.43,9
+ENV-1078,2024-02-28,Bogotá,Cali,DHL,Retrasado,75324.02,9
+ENV-1079,2024-01-30,Cali,Bogotá,Servientrega,Entregado,60914.16,8
+ENV-1080,2024-02-18,Cali,Cali,Servientrega,Devuelto,70320.72,9
+ENV-1081,2024-01-24,Cali,Bucaramanga,Interrapidísimo,En Tránsito,20593.78,2
+ENV-1082,2024-02-13,Bucaramanga,Cali,Envía,En Tránsito,77102.21,10
+ENV-1083,2024-01-17,Bogotá,Barranquilla,Envía,En Tránsito,52474.86,10
+ENV-1084,2024-01-13,Cali,Bogotá,DHL,Entregado,27643.83,9
+ENV-1085,2024-02-09,Bogotá,Medellín,Interrapidísimo,En Tránsito,60222.39,9
+ENV-1086,2024-04-10,Medellín,Bucaramanga,DHL,En Tránsito,78661.62,2
+ENV-1087,2024-01-01,Bogotá,Medellín,Servientrega,Devuelto,28296.48,1
+ENV-1088,2024-03-10,Bucaramanga,Bogotá,DHL,Entregado,74263.27,8
+ENV-1089,2024-04-10,Bogotá,Bogotá,Envía,Entregado,51908.17,9
+ENV-1090,2024-02-22,Barranquilla,Barranquilla,DHL,En Tránsito,56926.78,4
+ENV-1091,2024-03-31,Cali,Bogotá,Servientrega,Devuelto,30890.06,9
+ENV-1092,2024-02-04,Cali,Barranquilla,DHL,En Tránsito,19800.46,5
+ENV-1093,2024-01-06,Cali,Barranquilla,Interrapidísimo,Entregado,80041.21,7
+ENV-1094,2024-01-02,Medellín,Barranquilla,Envía,Devuelto,32658.23,9
+ENV-1095,2024-01-07,Barranquilla,Bogotá,DHL,Devuelto,18085.61,5
+ENV-1096,2024-01-09,Barranquilla,Medellín,Interrapidísimo,En Tránsito,60670.49,6
+ENV-1097,2024-01-05,Cali,Cali,Envía,Entregado,37692.37,6
+ENV-1098,2024-02-01,Bucaramanga,Bogotá,Interrapidísimo,En Tránsito,48674.87,3
+ENV-1099,2024-01-14,Bogotá,Bogotá,DHL,Devuelto,45333.38,7
+ENV-1100,2024-01-09,Bogotá,Bogotá,Envía,Retrasado,17052.98,1
+ENV-1101,2024-03-17,Medellín,Bucaramanga,Envía,Retrasado,71939.97,5
+ENV-1102,2024-03-23,Bogotá,Bogotá,DHL,Retrasado,37557.51,9
+ENV-1103,2024-01-21,Bogotá,Medellín,Servientrega,Entregado,46738.03,1
+ENV-1104,2024-03-21,Bogotá,Medellín,Interrapidísimo,Retrasado,82851.12,7
+ENV-1105,2024-01-24,Bogotá,Medellín,Servientrega,Devuelto,74636.72,1
+ENV-1106,2024-04-04,Medellín,Medellín,Servientrega,Retrasado,56541.99,2
+ENV-1107,2024-01-18,Bucaramanga,Medellín,Servientrega,Devuelto,28989.81,3
+ENV-1108,2024-02-20,Bogotá,Bogotá,Interrapidísimo,Devuelto,63919.93,1
+ENV-1109,2024-01-01,Cali,Bogotá,Servientrega,Retrasado,45680.82,2
+ENV-1110,2024-02-09,Bogotá,Bogotá,Interrapidísimo,En Tránsito,35748.13,8
+ENV-1111,2024-02-01,Bucaramanga,Barranquilla,DHL,En Tránsito,55787.85,1
+ENV-1112,2024-01-17,Bogotá,Bogotá,Interrapidísimo,Retrasado,79735.44,5
+ENV-1113,2024-01-07,Bogotá,Barranquilla,DHL,Devuelto,76067.34,4
+ENV-1114,2024-04-07,Medellín,Bogotá,Servientrega,Retrasado,69452.39,2
+ENV-1115,2024-01-11,Medellín,Bogotá,Envía,Devuelto,24643.57,5
+ENV-1116,2024-01-26,Barranquilla,Medellín,Interrapidísimo,Entregado,50384.52,8
+ENV-1117,2024-03-05,Bucaramanga,Bogotá,Envía,En Tránsito,49024.72,3
+ENV-1118,2024-01-31,Cali,Bogotá,DHL,En Tránsito,27223.26,8
+ENV-1119,2024-02-04,Medellín,Barranquilla,DHL,Devuelto,75882.88,10
+ENV-1120,2024-02-04,Bucaramanga,Cali,DHL,En Tránsito,21599.62,4
+ENV-1121,2024-03-09,Medellín,Bucaramanga,Servientrega,Devuelto,29677.54,3
+ENV-1122,2024-02-14,Barranquilla,Cali,Interrapidísimo,Retrasado,36641.28,10
+ENV-1123,2024-01-24,Medellín,Cali,DHL,Retrasado,83345.6,5
+ENV-1124,2024-03-21,Cali,Cali,DHL,Retrasado,39417.42,3
+ENV-1125,2024-02-22,Bogotá,Medellín,DHL,Retrasado,73881.71,7
+ENV-1126,2024-03-01,Barranquilla,Bucaramanga,Interrapidísimo,Devuelto,17605.63,4
+ENV-1127,2024-01-24,Cali,Bucaramanga,Interrapidísimo,Retrasado,71269.62,1
+ENV-1128,2024-01-29,Cali,Bogotá,Envía,Entregado,20485.58,7
+ENV-1129,2024-03-13,Barranquilla,Bucaramanga,Envía,Entregado,22604.96,6
+ENV-1130,2024-03-19,Bucaramanga,Cali,Interrapidísimo,Devuelto,65746.43,3
+ENV-1131,2024-03-04,Bogotá,Bucaramanga,Interrapidísimo,Entregado,21604.05,7
+ENV-1132,2024-01-24,Bogotá,Bucaramanga,Servientrega,En Tránsito,62396.81,9
+ENV-1133,2024-01-27,Medellín,Medellín,Interrapidísimo,En Tránsito,30576.7,4
+ENV-1134,2024-03-23,Bucaramanga,Barranquilla,Servientrega,Devuelto,43159.38,6
+ENV-1135,2024-04-08,Medellín,Medellín,Interrapidísimo,Devuelto,77769.82,5
+ENV-1136,2024-02-11,Bucaramanga,Medellín,Servientrega,En Tránsito,62428.36,4
+ENV-1137,2024-01-27,Bucaramanga,Medellín,DHL,En Tránsito,32151.4,7
+ENV-1138,2024-02-24,Bogotá,Cali,Servientrega,En Tránsito,30048.0,9
+ENV-1139,2024-02-18,Bogotá,Bucaramanga,Interrapidísimo,Retrasado,66238.67,8
+ENV-1140,2024-04-05,Bogotá,Bogotá,DHL,Retrasado,40946.6,10
+ENV-1141,2024-03-26,Barranquilla,Medellín,DHL,Retrasado,60857.87,6
+ENV-1142,2024-03-06,Barranquilla,Bogotá,Interrapidísimo,Entregado,31475.58,9
+ENV-1143,2024-03-02,Medellín,Barranquilla,Servientrega,Entregado,20107.53,3
+ENV-1144,2024-02-03,Barranquilla,Cali,Interrapidísimo,En Tránsito,61266.43,6
+ENV-1145,2024-03-21,Bucaramanga,Cali,Servientrega,En Tránsito,69621.94,3
+ENV-1146,2024-03-08,Bogotá,Bogotá,Interrapidísimo,Entregado,83433.67,2
+ENV-1147,2024-03-11,Cali,Cali,DHL,Entregado,62334.63,9
+ENV-1148,2024-01-27,Bucaramanga,Medellín,Envía,Devuelto,30928.38,6
+ENV-1149,2024-02-04,Cali,Cali,Interrapidísimo,Entregado,80405.9,7
+ENV-1150,2024-01-15,Bucaramanga,Bucaramanga,Servientrega,Retrasado,49213.0,5
+ENV-1151,2024-02-23,Bucaramanga,Barranquilla,Servientrega,Entregado,54647.83,3
+ENV-1152,2024-04-02,Medellín,Medellín,Interrapidísimo,En Tránsito,40831.78,1
+ENV-1153,2024-03-05,Bucaramanga,Bogotá,DHL,Retrasado,51434.82,6
+ENV-1154,2024-03-26,Barranquilla,Medellín,Envía,Retrasado,57867.93,9
+ENV-1155,2024-03-19,Bogotá,Medellín,Interrapidísimo,Entregado,15336.12,5
+ENV-1156,2024-02-27,Bucaramanga,Barranquilla,Interrapidísimo,Retrasado,32717.62,10
+ENV-1157,2024-03-31,Barranquilla,Cali,Servientrega,Retrasado,57280.78,2
+ENV-1158,2024-02-26,Bogotá,Barranquilla,Interrapidísimo,En Tránsito,15454.56,10
+ENV-1159,2024-02-18,Barranquilla,Barranquilla,DHL,En Tránsito,19577.93,3
